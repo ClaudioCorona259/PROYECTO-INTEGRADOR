@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./Img/tour.jpg);
+    /* background-image: url(./Img/tour.jpg); */
     width: 1500px;
     height: 600px;
 }
