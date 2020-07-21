@@ -12,6 +12,7 @@
     justify-content: center;
     align-items: center;
     background-image: url(./Img/tour.jpg);
+    width: 1500px;
     height: 600px;
 }
 
@@ -52,6 +53,7 @@
 
 .tour {
     background-image: url(./Img/tourr2.jpg);
+    width: 1500px;
     height: 800px;
 }
 
@@ -116,6 +118,7 @@
 
 .music {
     background-image: url(./Img/videos.jpg);
+    width: 1500px;
     height: 800px;
     z-index: -80;
 }
